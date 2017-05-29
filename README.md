@@ -1,3 +1,3 @@
-# morningrunning.github.io
+# Ronald Morgan
 
-A Blog about programming
+A blog about learning programming as part of the Flation Web Developer program.
