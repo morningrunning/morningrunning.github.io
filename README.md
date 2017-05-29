@@ -1,3 +1,3 @@
 # morningrunning.github.io
 
-A Blog about programmins
+A Blog about programming
