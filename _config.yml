@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: ronm7581@gmail.com
 copyright_name: morningrunning
 description: > # this means to ignore newlines until "baseurl:"
-  My Journey Through Coding
+  My Journey Through Coding With Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: rwmorgan01
 github_username:  morningrunning
